@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swapnilyadav.
-- 👀 I’m interested in hacking.
-- 🌱 I’m currently learning html,css,js.
-- 💞️ I’m looking to collaborate on yt channel.
+- 👀 I’m interested in AI, ML & DS.
+- 🌱 I’m currently learning Python & ML.
+- 💞️ I’m looking to collaborate on yt channel & on my buissness idea .
 - 📫 How to reach me email me swapnilyadav.dude@gmail.com.
 
 <!---
