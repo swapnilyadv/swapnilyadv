@@ -1,9 +1,9 @@
 
-- if (Alive)
-- print"Sleap <?"
-- print"</"
+- if (😊)
+- print"😴 <? 😋"
+- print"👨‍💻</"
 - else
-- print"song"
+- print"pease"
 
 <!---
 swapnilyadv/swapnilyadv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
