@@ -1,9 +1,9 @@
-- for( </ ++)
-- if (Alive)
-- print"Sleap <?"
-- print"</"
-- else
-- print"song"
+
+if (Alive)
+print"Sleap <?"
+print"</"
+else
+print"song"
 
 <!---
 swapnilyadv/swapnilyadv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
