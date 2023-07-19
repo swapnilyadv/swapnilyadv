@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm swapnil yadav</h1>
-<h3 align="centre">An ambitious and self-motivated web developer with a considerable technical skills who possesses self- discipline and the ability to work with a minimum of supervision</h3>
+<h3 align="centre">An ambitious and self-motivated web developer with considerable technical skills who possesses self-discipline and the ability to work with a minimum of supervision</h3>
 
 <p align="left"> <a href="https://twitter.com/swapnil15925614" target="blank"><img src="https://img.shields.io/twitter/follow/swapnil15925614?logo=twitter&style=for-the-badge" alt="swapnil15925614" /></a> </p>
 
 - 📫 How to reach me **swapnilyadav.dude@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilyadv&show_icons=true&locale=en&layout=compact" alt="swapnilyadv" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilyadv&show_icons=true&locale=en" alt="swapnilyadv" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilyadv&show_icons=true&locale=en&layout=compact" alt="swapnilyadv" /></p>
+<br></br>
+<br></br>
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swapnil15925614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swapnil15925614" height="30" width="40" /></a>
