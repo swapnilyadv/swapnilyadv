@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **swapnilyadav.dude@gmail.com**
 
+<img align = "right" alt="coding" width="400" src="https://github.com/swapnilyadv/swapnilyadv/assets/79936181/c90becc8-3407-492b-b174-72c8ff390be1">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilyadv&show_icons=true&locale=en" alt="swapnilyadv" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnilyadv&show_icons=true&locale=en&layout=compact" alt="swapnilyadv" /></p>
